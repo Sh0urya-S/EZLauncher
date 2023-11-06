@@ -1,5 +1,5 @@
 # EZLauncher
-This is a small launcher that i developed using JAVA. It is intended to provide upto 9 user-prescribed buttons that open the file associated to it. the buttons are also dynamically resized to fit into the screen to increase ambiguity. The program is meant to run on startup so the file needs to be added to the startup programs list while booting up windows.
+This is a simple launcher that i developed using JAVA. It is intended to provide upto 9 user-prescribed buttons that open the file associated to it. the buttons are also dynamically resized to fit into the screen to increase ambiguity. The program is meant to run on startup so the file needs to be added to the startup programs list while booting up windows.
 
 This is how the window will look like with just two buttons:
 ![image](https://github.com/Sh0urya-S/EZLauncher/assets/101881808/d494c148-06cb-4cba-a8ce-8d2757ae0f1e)
