@@ -34,3 +34,8 @@ Screenshots of when the layout has 5 and 9 buttons respectively:
 
 -Saves the exisiting buttons so that you dont have to redeclare them every time it's launched
 -Appearance changes such as background colors and stuff
+-Dialogue box that says MAX Limit Reached when you try to create a new button when there are already 9 buttons
+
+**Developer Message**:
+
+I will continue to build other simple applications that can help people in their day-to-day usage of computers. Stay tuned :D
