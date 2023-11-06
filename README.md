@@ -6,7 +6,7 @@ This is how the window will look like with just two buttons:
 
 As buttons are added it will soon take form of a neatly arranged grid with no extra border gaps or anything. Each button also has a cross within it which when clicked deletes the button and rearranges and resizes the rest of the buttons accordingly to keep the whole layout filled completely.
 
-**Creating a Button**
+**Creating/Deleting a Button**
 
 1) Press the + button on the top of the window.
    
